@@ -1,0 +1,86 @@
+interface FastEthernet0/5
+no authentication port-control auto
+interface FastEthernet0/6
+no authentication port-control auto
+interface FastEthernet0/7
+no authentication port-control auto
+interface FastEthernet0/8
+no authentication port-control auto
+interface FastEthernet0/9
+no authentication port-control auto
+interface FastEthernet0/10
+no authentication port-control auto
+interface FastEthernet0/11
+no authentication port-control auto
+interface FastEthernet0/12
+no authentication port-control auto
+interface FastEthernet0/13
+no authentication port-control auto
+interface FastEthernet0/14
+no authentication port-control auto
+interface FastEthernet0/15
+no authentication port-control auto
+interface FastEthernet0/16
+no authentication port-control auto
+interface FastEthernet0/17
+no authentication port-control auto
+interface FastEthernet0/18
+no authentication port-control auto
+interface FastEthernet0/19
+no authentication port-control auto
+interface FastEthernet0/20
+no authentication port-control auto
+interface FastEthernet0/21
+no authentication port-control auto
+interface FastEthernet0/22
+no authentication port-control auto
+interface FastEthernet0/23
+no authentication port-control auto
+interface FastEthernet0/24
+no authentication port-control auto
+interface FastEthernet0/25
+no authentication port-control auto
+interface FastEthernet0/26
+no authentication port-control auto
+interface FastEthernet0/27
+no authentication port-control auto
+interface FastEthernet0/28
+no authentication port-control auto
+interface FastEthernet0/29
+no authentication port-control auto
+interface FastEthernet0/30
+no authentication port-control auto
+interface FastEthernet0/31
+no authentication port-control auto
+interface FastEthernet0/32
+no authentication port-control auto
+interface FastEthernet0/33
+no authentication port-control auto
+interface FastEthernet0/34
+no authentication port-control auto
+interface FastEthernet0/35
+no authentication port-control auto
+interface FastEthernet0/36
+no authentication port-control auto
+interface FastEthernet0/37
+no authentication port-control auto
+interface FastEthernet0/38
+no authentication port-control auto
+interface FastEthernet0/39
+no authentication port-control auto
+interface FastEthernet0/40
+no authentication port-control auto
+interface FastEthernet0/41
+no authentication port-control auto
+interface FastEthernet0/42
+no authentication port-control auto
+interface FastEthernet0/43
+no authentication port-control auto
+interface FastEthernet0/44
+no authentication port-control auto
+interface FastEthernet0/45
+no authentication port-control auto
+interface FastEthernet0/46
+no authentication port-control auto
+interface FastEthernet0/47
+no authentication port-control auto

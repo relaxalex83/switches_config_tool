@@ -1,0 +1,58 @@
+interface GigabitEthernet1/0/1
+no authentication port-control auto
+interface GigabitEthernet1/0/2
+no authentication port-control auto
+interface GigabitEthernet1/0/3
+no authentication port-control auto
+interface GigabitEthernet1/0/5
+no authentication port-control auto
+interface GigabitEthernet1/0/6
+no authentication port-control auto
+interface GigabitEthernet1/0/7
+no authentication port-control auto
+interface GigabitEthernet1/0/8
+no authentication port-control auto
+interface GigabitEthernet1/0/9
+no authentication port-control auto
+interface GigabitEthernet1/0/10
+no authentication port-control auto
+interface GigabitEthernet1/0/11
+no authentication port-control auto
+interface GigabitEthernet1/0/12
+no authentication port-control auto
+interface GigabitEthernet1/0/13
+no authentication port-control auto
+interface GigabitEthernet1/0/16
+no authentication port-control auto
+interface GigabitEthernet1/0/17
+no authentication port-control auto
+interface GigabitEthernet1/0/19
+no authentication port-control auto
+interface GigabitEthernet1/0/20
+no authentication port-control auto
+interface GigabitEthernet1/0/21
+no authentication port-control auto
+interface GigabitEthernet1/0/22
+no authentication port-control auto
+interface GigabitEthernet1/0/26
+no authentication port-control auto
+interface GigabitEthernet1/0/27
+no authentication port-control auto
+interface GigabitEthernet1/0/29
+no authentication port-control auto
+interface GigabitEthernet1/0/30
+no authentication port-control auto
+interface GigabitEthernet1/0/31
+no authentication port-control auto
+interface GigabitEthernet1/0/32
+no authentication port-control auto
+interface GigabitEthernet1/0/33
+no authentication port-control auto
+interface GigabitEthernet1/0/34
+no authentication port-control auto
+interface GigabitEthernet1/0/36
+no authentication port-control auto
+interface GigabitEthernet1/0/39
+no authentication port-control auto
+interface GigabitEthernet1/0/40
+no authentication port-control auto

@@ -1,0 +1,80 @@
+interface GigabitEthernet1/0/6
+authentication port-control auto
+interface GigabitEthernet1/0/7
+authentication port-control auto
+interface GigabitEthernet1/0/8
+authentication port-control auto
+interface GigabitEthernet1/0/9
+authentication port-control auto
+interface GigabitEthernet1/0/10
+authentication port-control auto
+interface GigabitEthernet1/0/11
+authentication port-control auto
+interface GigabitEthernet1/0/12
+authentication port-control auto
+interface GigabitEthernet1/0/13
+authentication port-control auto
+interface GigabitEthernet1/0/14
+authentication port-control auto
+interface GigabitEthernet1/0/15
+authentication port-control auto
+interface GigabitEthernet1/0/16
+authentication port-control auto
+interface GigabitEthernet1/0/18
+authentication port-control auto
+interface GigabitEthernet1/0/19
+authentication port-control auto
+interface GigabitEthernet1/0/20
+authentication port-control auto
+interface GigabitEthernet1/0/21
+authentication port-control auto
+interface GigabitEthernet1/0/22
+authentication port-control auto
+interface GigabitEthernet1/0/23
+authentication port-control auto
+interface GigabitEthernet1/0/24
+authentication port-control auto
+interface GigabitEthernet1/0/25
+authentication port-control auto
+interface GigabitEthernet1/0/26
+authentication port-control auto
+interface GigabitEthernet1/0/27
+authentication port-control auto
+interface GigabitEthernet1/0/28
+authentication port-control auto
+interface GigabitEthernet1/0/29
+authentication port-control auto
+interface GigabitEthernet1/0/30
+authentication port-control auto
+interface GigabitEthernet1/0/31
+authentication port-control auto
+interface GigabitEthernet1/0/32
+authentication port-control auto
+interface GigabitEthernet1/0/33
+authentication port-control auto
+interface GigabitEthernet1/0/34
+authentication port-control auto
+interface GigabitEthernet1/0/35
+authentication port-control auto
+interface GigabitEthernet1/0/36
+authentication port-control auto
+interface GigabitEthernet1/0/37
+authentication port-control auto
+interface GigabitEthernet1/0/38
+authentication port-control auto
+interface GigabitEthernet1/0/39
+authentication port-control auto
+interface GigabitEthernet1/0/40
+authentication port-control auto
+interface GigabitEthernet1/0/41
+authentication port-control auto
+interface GigabitEthernet1/0/42
+authentication port-control auto
+interface GigabitEthernet1/0/43
+authentication port-control auto
+interface GigabitEthernet1/0/44
+authentication port-control auto
+interface GigabitEthernet1/0/45
+authentication port-control auto
+interface GigabitEthernet1/0/46
+authentication port-control auto

@@ -1,0 +1,42 @@
+interface FastEthernet0/4
+authentication port-control auto
+interface FastEthernet0/5
+authentication port-control auto
+interface FastEthernet0/6
+authentication port-control auto
+interface FastEthernet0/7
+authentication port-control auto
+interface FastEthernet0/8
+authentication port-control auto
+interface FastEthernet0/9
+authentication port-control auto
+interface FastEthernet0/10
+authentication port-control auto
+interface FastEthernet0/11
+authentication port-control auto
+interface FastEthernet0/12
+authentication port-control auto
+interface FastEthernet0/13
+authentication port-control auto
+interface FastEthernet0/14
+authentication port-control auto
+interface FastEthernet0/15
+authentication port-control auto
+interface FastEthernet0/16
+authentication port-control auto
+interface FastEthernet0/17
+authentication port-control auto
+interface FastEthernet0/18
+authentication port-control auto
+interface FastEthernet0/19
+authentication port-control auto
+interface FastEthernet0/20
+authentication port-control auto
+interface FastEthernet0/21
+authentication port-control auto
+interface FastEthernet0/22
+authentication port-control auto
+interface FastEthernet0/23
+authentication port-control auto
+interface FastEthernet0/24
+authentication port-control auto

@@ -1,0 +1,89 @@
+interface GigabitEthernet1/0/10
+ port access vlan 220
+ undo dot1x handshake
+ port-security port-mode userlogin-withoui
+ port-security authentication open
+
+interface GigabitEthernet1/0/16
+ port access vlan 220
+ undo dot1x handshake
+ port-security port-mode userlogin-withoui
+ port-security authentication open
+
+interface GigabitEthernet1/0/18
+ port access vlan 220
+ undo dot1x handshake
+ port-security port-mode userlogin-withoui
+ port-security authentication open
+
+interface GigabitEthernet1/0/19
+ port access vlan 220
+ undo dot1x handshake
+ port-security port-mode userlogin-withoui
+ port-security authentication open
+
+interface GigabitEthernet1/0/23
+ port access vlan 220
+ undo dot1x handshake
+ port-security port-mode userlogin-withoui
+ port-security authentication open
+
+interface GigabitEthernet1/0/24
+ port access vlan 220
+ undo dot1x handshake
+ port-security port-mode userlogin-withoui
+ port-security authentication open
+
+interface GigabitEthernet1/0/26
+ port access vlan 220
+ undo dot1x handshake
+ port-security port-mode userlogin-withoui
+ port-security authentication open
+
+interface GigabitEthernet1/0/28
+ port access vlan 220
+ undo dot1x handshake
+ port-security port-mode userlogin-withoui
+ port-security authentication open
+
+interface GigabitEthernet1/0/31
+ port access vlan 220
+ undo dot1x handshake
+ port-security port-mode userlogin-withoui
+ port-security authentication open
+
+interface GigabitEthernet1/0/33
+ port access vlan 220
+ undo dot1x handshake
+ port-security port-mode userlogin-withoui
+ port-security authentication open
+
+interface GigabitEthernet1/0/34
+ port access vlan 220
+ undo dot1x handshake
+ port-security port-mode userlogin-withoui
+ port-security authentication open
+
+interface GigabitEthernet1/0/35
+ port access vlan 220
+ undo dot1x handshake
+ port-security port-mode userlogin-withoui
+ port-security authentication open
+
+interface GigabitEthernet1/0/38
+ port access vlan 220
+ undo dot1x handshake
+ port-security port-mode userlogin-withoui
+ port-security authentication open
+
+interface GigabitEthernet1/0/40
+ port access vlan 220
+ undo dot1x handshake
+ port-security port-mode userlogin-withoui
+ port-security authentication open
+
+interface GigabitEthernet1/0/45
+ port access vlan 220
+ undo dot1x handshake
+ port-security port-mode userlogin-withoui
+ port-security authentication open

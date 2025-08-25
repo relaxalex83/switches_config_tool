@@ -1,0 +1,80 @@
+interface GigabitEthernet1/0/1
+port link-type trunk
+undo port trunk permit vlan 1
+voice-vlan 3 enable
+dot1x
+undo dot1x handshake
+dot1x port-method portbased
+dot1x guest-vlan 220
+interface GigabitEthernet1/0/2
+port link-type trunk
+undo port trunk permit vlan 1
+voice-vlan 3 enable
+dot1x
+undo dot1x handshake
+dot1x port-method portbased
+dot1x guest-vlan 220
+interface GigabitEthernet1/0/3
+port link-type trunk
+undo port trunk permit vlan 1
+voice-vlan 3 enable
+dot1x
+undo dot1x handshake
+dot1x port-method portbased
+dot1x guest-vlan 220
+interface GigabitEthernet1/0/4
+port link-type trunk
+undo port trunk permit vlan 1
+voice-vlan 3 enable
+dot1x
+undo dot1x handshake
+dot1x port-method portbased
+dot1x guest-vlan 220
+interface GigabitEthernet1/0/5
+port link-type trunk
+undo port trunk permit vlan 1
+voice-vlan 3 enable
+dot1x
+undo dot1x handshake
+dot1x port-method portbased
+dot1x guest-vlan 220
+interface GigabitEthernet1/0/6
+port link-type trunk
+undo port trunk permit vlan 1
+voice-vlan 3 enable
+dot1x
+undo dot1x handshake
+dot1x port-method portbased
+dot1x guest-vlan 220
+interface GigabitEthernet1/0/7
+port link-type trunk
+undo port trunk permit vlan 1
+voice-vlan 3 enable
+dot1x
+undo dot1x handshake
+dot1x port-method portbased
+dot1x guest-vlan 220
+interface GigabitEthernet1/0/8
+port link-type trunk
+undo port trunk permit vlan 1
+voice-vlan 3 enable
+dot1x
+undo dot1x handshake
+dot1x port-method portbased
+dot1x guest-vlan 220
+interface GigabitEthernet1/0/9
+port link-type trunk
+undo port trunk permit vlan 1
+voice-vlan 3 enable
+dot1x
+undo dot1x handshake
+dot1x port-method portbased
+dot1x guest-vlan 220
+interface GigabitEthernet1/0/10
+port link-type trunk
+undo port trunk permit vlan 1
+voice-vlan 3 enable
+dot1x
+undo dot1x handshake
+dot1x port-method portbased
+dot1x guest-vlan 220

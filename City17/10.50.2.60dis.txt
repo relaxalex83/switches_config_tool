@@ -1,0 +1,80 @@
+interface GigabitEthernet1/0/1
+no dot1x
+no voice-vlan 3 enable
+port link-type access
+port access vlan 150
+no dot1x guest-vlan
+no dot1x port-method
+dot1x handshake
+interface GigabitEthernet1/0/2
+no dot1x
+no voice-vlan 3 enable
+port link-type access
+port access vlan 150
+no dot1x guest-vlan
+no dot1x port-method
+dot1x handshake
+interface GigabitEthernet1/0/3
+no dot1x
+no voice-vlan 3 enable
+port link-type access
+port access vlan 150
+no dot1x guest-vlan
+no dot1x port-method
+dot1x handshake
+interface GigabitEthernet1/0/4
+no dot1x
+no voice-vlan 3 enable
+port link-type access
+port access vlan 150
+no dot1x guest-vlan
+no dot1x port-method
+dot1x handshake
+interface GigabitEthernet1/0/5
+no dot1x
+no voice-vlan 3 enable
+port link-type access
+port access vlan 150
+no dot1x guest-vlan
+no dot1x port-method
+dot1x handshake
+interface GigabitEthernet1/0/6
+no dot1x
+no voice-vlan 3 enable
+port link-type access
+port access vlan 150
+no dot1x guest-vlan
+no dot1x port-method
+dot1x handshake
+interface GigabitEthernet1/0/7
+no dot1x
+no voice-vlan 3 enable
+port link-type access
+port access vlan 150
+no dot1x guest-vlan
+no dot1x port-method
+dot1x handshake
+interface GigabitEthernet1/0/8
+no dot1x
+no voice-vlan 3 enable
+port link-type access
+port access vlan 199
+no dot1x guest-vlan
+no dot1x port-method
+dot1x handshake
+interface GigabitEthernet1/0/9
+no dot1x
+no voice-vlan 3 enable
+port link-type access
+port access vlan 199
+no dot1x guest-vlan
+no dot1x port-method
+dot1x handshake
+interface GigabitEthernet1/0/10
+no dot1x
+no voice-vlan 3 enable
+port link-type access
+port access vlan 199
+no dot1x guest-vlan
+no dot1x port-method
+dot1x handshake

@@ -1,0 +1,48 @@
+interface GigabitEthernet1/0/4
+ port access vlan 54 
+ dot1x handshake
+ no port-security max-mac-count
+ no port-security port-mode
+ no port-security authentication open
+interface GigabitEthernet1/0/6
+ port access vlan 54 
+ dot1x handshake
+ no port-security max-mac-count
+ no port-security port-mode
+ no port-security authentication open
+interface GigabitEthernet1/0/9
+ port access vlan 54 
+ dot1x handshake
+ no port-security max-mac-count
+ no port-security port-mode
+ no port-security authentication open
+interface GigabitEthernet1/0/10
+ port access vlan 54 
+ dot1x handshake
+ no port-security max-mac-count
+ no port-security port-mode
+ no port-security authentication open
+interface GigabitEthernet1/0/11
+ port access vlan 54 
+ dot1x handshake
+ no port-security max-mac-count
+ no port-security port-mode
+ no port-security authentication open
+interface GigabitEthernet1/0/12
+ port access vlan 54 
+ dot1x handshake
+ no port-security max-mac-count
+ no port-security port-mode
+ no port-security authentication open
+interface GigabitEthernet1/0/15
+ port access vlan 54 
+ dot1x handshake
+ no port-security max-mac-count
+ no port-security port-mode
+ no port-security authentication open
+interface GigabitEthernet1/0/18
+ port access vlan 54 
+ dot1x handshake
+ no port-security max-mac-count
+ no port-security port-mode
+ no port-security authentication open
